@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: mathop
+Version: 0.0.1
+Summary: An demonstration of how to create, document package
+Home-page: http://8.142.61.226/wiki/%E5%B7%A5%E4%BD%9C/%E9%9D%92%E6%A4%92%E5%AE%9E%E4%B9%A0/%E6%89%93%E5%8C%85/python_package/python_package/
+Author: zdl
+Author-email: zdlp@sina.cn
+License: BSD
+Description: # actions
+        test actions
+        
+Keywords: mathop
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: BSD License

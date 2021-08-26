@@ -1,0 +1,8 @@
+README.md
+op.cpp
+setup.py
+mathop.egg-info/PKG-INFO
+mathop.egg-info/SOURCES.txt
+mathop.egg-info/dependency_links.txt
+mathop.egg-info/not-zip-safe
+mathop.egg-info/top_level.txt
