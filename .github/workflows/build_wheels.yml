@@ -11,7 +11,10 @@ jobs:
         os: [ubuntu-20.04, windows-2019, macos-10.15]
 
     steps:
+
       - uses: actions/checkout@v2
+      
+      - run: bash build_tools/github/build_wheels.sh
 
       - name: Build wheels
         uses: pypa/cibuildwheel@v2.1.1
