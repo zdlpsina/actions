@@ -14,8 +14,10 @@ jobs:
 
       - uses: actions/checkout@v2
       
-      - run: bash run.sh
-
+      
+      - name: add pybind11
+        run: bash run.sh
+        
       - name: Build wheels
         uses: pypa/cibuildwheel@v2.1.1
         # to supply options, put them in 'env', like:
